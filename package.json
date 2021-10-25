@@ -1,0 +1,19 @@
+{
+  "name": "3x3generator",
+  "version": "1.0.0",
+  "description": "3x3 Generator for anime and manga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amamoon/3x3Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amamoon/3x3Generator/issues"
+  },
+  "homepage": "https://github.com/amamoon/3x3Generator#readme"
+}
